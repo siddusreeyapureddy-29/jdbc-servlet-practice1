@@ -58,29 +58,6 @@ jdbcproject/
 - MySQL Server
 - MySQL JDBC Driver
 
-## 🚀 How to Run the Project
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/siddusreeyapureddy-29/jdbc-servlet-practice1.git
-   ```
-
-2. Open Eclipse IDE.
-
-3. Import the project into Eclipse:
-   - File → Import
-   - General → Existing Projects into Workspace
-   - Select the project folder.
-
-4. Configure the MySQL database connection.
-
-5. Add the MySQL Connector/J library to the project.
-
-6. Configure Apache Tomcat Server in Eclipse.
-
-7. Run the project on the Tomcat server.
-
 ## 🎯 Learning Objectives
 
 - Understand the fundamentals of JDBC and Servlets.
@@ -89,12 +66,3 @@ jdbcproject/
 - Understand client-server communication.
 - Gain practical experience in Java backend development.
 
-## 👨‍💻 Author
-
-**Siddu**
-
-GitHub: [siddusreeyapureddy-29](https://github.com/siddusreeyapureddy-29)
-
----
-
-⭐ This repository is maintained for learning and practicing Java JDBC, Servlets, and database connectivity.
